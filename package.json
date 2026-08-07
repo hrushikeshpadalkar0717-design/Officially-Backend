@@ -1,0 +1,16 @@
+{
+  "name": "officiallybackend",
+  "version": "1.0.0",
+  "description": "a new backend study form 7/8/26",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Hrushikesh Padalkar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
